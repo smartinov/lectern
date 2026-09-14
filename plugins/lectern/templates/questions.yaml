@@ -1,0 +1,9 @@
+questions:
+  - id: explain-core-idea-q1
+    lesson: 01-lesson-slug
+    objectives: [explain-core-idea]
+    type: free_text
+    prompt: ""
+    answer: ""
+    rubric:
+      - ""

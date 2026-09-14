@@ -1,0 +1,28 @@
+{
+  "name": "lectern",
+  "version": "0.2.0",
+  "description": "Author personalized offline courses and convert articles into verified Kindle EPUBs.",
+  "author": {
+    "name": "Stefan Martinov"
+  },
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Lectern",
+    "shortDescription": "Personalized courses and reliable Kindle EPUBs",
+    "longDescription": "Calibrate a writing voice, author evidence-informed offline lessons, practice from saved assessments, and build or explicitly deliver verified EPUBs.",
+    "developerName": "Stefan Martinov",
+    "category": "Productivity",
+    "capabilities": [
+      "Course authoring",
+      "Article conversion",
+      "EPUB validation",
+      "Conversational quizzes"
+    ],
+    "defaultPrompt": [
+      "Create a personalized course about a topic I want to learn.",
+      "Convert this article into a Kindle EPUB.",
+      "Quiz me on the chapter I just finished."
+    ]
+  }
+}

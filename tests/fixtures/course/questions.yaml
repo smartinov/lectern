@@ -1,0 +1,36 @@
+questions:
+  - id: retrieval-explanation
+    lesson: 01-retrieval
+    objectives: [explain-retrieval]
+    type: free_text
+    prompt: What changes when you explain an idea with the book closed?
+    answer: You must produce the explanation from memory instead of following the available text. Comparing your attempt with the source reveals gaps and enables correction.
+    rubric:
+      - Distinguishes producing information from following supplied information.
+      - Includes checking and correcting the attempt.
+  - id: retrieval-choice
+    lesson: 01-retrieval
+    objectives: [explain-retrieval]
+    type: single_choice
+    prompt: Which activity explicitly practices retrieval?
+    choices:
+      a: Explain the process before reopening the notes.
+      b: Highlight its name while reading the notes.
+    correct: [a]
+    answer: Explaining before reopening the notes requires retrieval. Highlighting with the information visible does not require producing it from memory.
+    rubric:
+      - Selects a and identifies the attempt without visible notes.
+  - id: spacing-transfer
+    lesson: 02-spacing
+    objectives: [plan-spaced-practice, explain-retrieval]
+    type: multiple_choice
+    prompt: Which elements belong in a plan that combines spacing and retrieval?
+    choices:
+      a: Attempting an explanation in a later study session.
+      b: Checking the attempt against the source.
+      c: Treating a pleasant reading session as proof of mastery.
+    correct: [a, b]
+    answer: A later attempt supplies spacing and retrieval, and checking supports correction. Enjoyment is useful feedback about the experience but does not establish mastery.
+    rubric:
+      - Selects both a and b.
+      - Rejects c because enjoyment and demonstrated learning are distinct.

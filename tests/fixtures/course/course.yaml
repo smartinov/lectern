@@ -1,0 +1,18 @@
+title: Remember It When the Book Is Closed
+slug: learning-sample
+topic: Retrieval and spacing
+domain: Learning
+level: introductory
+author: ""
+language: en
+lessons: 2
+reading_minutes: 20
+practice_minutes: 10
+style: blunt-mentor
+outcomes:
+  - id: explain-retrieval
+    description: Explain why attempting recall differs from rereading.
+  - id: plan-spaced-practice
+    description: Plan practice over separate study sessions.
+prerequisites: []
+personalization: {}

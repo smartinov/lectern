@@ -1,0 +1,9 @@
+{
+  "name": "lectern",
+  "version": "0.2.0",
+  "description": "Author personalized offline courses and convert articles into verified Kindle EPUBs.",
+  "author": {
+    "name": "Stefan Martinov"
+  },
+  "license": "MIT"
+}

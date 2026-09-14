@@ -1,0 +1,17 @@
+{
+  "name": "lectern",
+  "owner": {
+    "name": "Stefan Martinov"
+  },
+  "plugins": [
+    {
+      "name": "lectern",
+      "source": "./plugins/lectern",
+      "version": "0.2.0",
+      "description": "Author personalized offline courses and convert articles into verified Kindle EPUBs."
+    }
+  ],
+  "metadata": {
+    "description": "Personalized learning and reliable Kindle EPUB workflows"
+  }
+}
