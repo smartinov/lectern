@@ -1,9 +1,0 @@
-body { font-family: serif; line-height: 1.4; }
-h1, h2, h3 { font-family: sans-serif; page-break-after: avoid; }
-h1 { page-break-before: always; }
-blockquote { margin: 1em 2em; font-style: italic; }
-code, pre { font-family: monospace; font-size: 0.9em; }
-pre { white-space: pre-wrap; }
-.objectives, .quiz, .answers { margin-top: 1.5em; }
-.quiz ol li, .answers ol li { margin-bottom: 0.8em; }
-.callout { border-left: 3px solid #888; padding-left: 1em; margin: 1em 0; }

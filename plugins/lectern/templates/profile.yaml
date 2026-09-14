@@ -1,0 +1,17 @@
+language: en
+reading_minutes: 20
+practice_minutes: 10
+style: blunt-mentor
+background: ""
+goals: []
+prior_knowledge: []
+preferred_examples: []
+writing:
+  humor: dry-and-relevant
+  profanity: occasional
+  technical_depth: substantial
+  narrative_density: moderate
+collaboration:
+  workflow: calibrate-then-build
+  checkpoints: [scope-outline-and-sample]
+accessibility: []

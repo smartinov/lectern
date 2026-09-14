@@ -1,0 +1,15 @@
+body { margin-left: 0; margin-right: 0; }
+h1, h2, h3, h4, h5, h6 { text-align: left; break-after: avoid; }
+h1 { break-before: page; }
+p { orphans: 2; widows: 2; }
+blockquote { margin: 1em 5%; }
+img { display: block; max-width: 100%; height: auto; margin: 1em auto; }
+figure { break-inside: avoid; margin: 1em 0; }
+pre { white-space: pre-wrap; overflow-wrap: anywhere; }
+code { font-size: 0.9em; }
+table { border-collapse: collapse; width: 100%; }
+th, td { border: 1px solid #888; padding: 0.3em; vertical-align: top; }
+th { text-align: left; }
+.objectives { margin-top: 1em; margin-bottom: 1em; }
+li { margin-bottom: 0.5em; }
+a { text-decoration: underline; }

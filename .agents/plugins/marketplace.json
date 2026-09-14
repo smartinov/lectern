@@ -1,0 +1,20 @@
+{
+  "name": "lectern",
+  "interface": {
+    "displayName": "Lectern"
+  },
+  "plugins": [
+    {
+      "name": "lectern",
+      "source": {
+        "source": "local",
+        "path": "./plugins/lectern"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
