@@ -1,0 +1,8 @@
+build/
+learner/
+.claude/
+.codex/
+CLAUDE.md
+AGENTS.md
+.mcp.json
+.DS_Store

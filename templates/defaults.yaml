@@ -1,0 +1,6 @@
+to: epub3
+toc: true
+toc-depth: 2
+number-sections: false
+css: templates/epub.css
+epub-chapter-level: 1
